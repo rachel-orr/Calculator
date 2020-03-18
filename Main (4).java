@@ -5,6 +5,11 @@ public class Calculator {
         
         /* THIS IS A GITHUB COMMENT */
         
+        /*The above comment is incorrect. THIS is the first github comment. The above comment
+        was made in the original file on my IDE, because i didnt understand what making a 
+        branch entailed. Thsi comment was made by making a branch and editing the code, thus making
+        an actual edit. */
+        
         
         //Set variables
         Scanner scan = new Scanner(System.in);
